@@ -5,6 +5,6 @@
 
 ## Polygon Detect
 - python polygon_detect.py
-- Will track mutiple green objects.
+- Will track multiple green objects.
 - Will draw a line between each object thus constructing the polygon (> 3 objects) represented by the objects.
 - Detect the type of polygon created. (Need to implement)
